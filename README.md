@@ -5,7 +5,7 @@ Control the paddle, bounce the ball, and try not to let it fall!
 
 ### How to Play:
 
-Move the paddle using your keyboard (← → keys).
+Move the paddle using your keypad/cursor.
 
 Keep the ball bouncing — don’t let it touch the ground!
 
